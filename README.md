@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-This code has been tested on `Python 2.7.9` and the exact version of the dependencies are pinned in `requirements.pip`. It has not been tested on Mac and Ubuntu.
+This code has been tested on `Python 2.7.9` and the exact version of the dependencies are pinned in `requirements.pip`. It has been tested on Mac and Ubuntu.
 
 ### Installing
 
