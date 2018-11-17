@@ -57,7 +57,7 @@ From the dumps in the `[RESULTS SUBDIR]` directory, summary plots can be made fr
 
 The files `mh.py` and `classification.py` are designed to have general routines. The other files are scripts specific to this project.
 
-## Plots and Tables
+## Plots
 
 For plotting one must install `matplotlib` into the virtual environment. From
 the root of the repo run:
@@ -69,7 +69,6 @@ The following functions generate plots based on the csv files dumped by `demo_mh
 ```
 plot_calibration.py
 plot_incep_by_epoch.py
-plot_incep_by_mh_iter.py
 plot_score_distn.py
 ```
 These are called in the following way by providing the relevant directories:
@@ -77,12 +76,6 @@ These are called in the following way by providing the relevant directories:
 cd mhgan
 python plot_score_distn.py --input [RESULTS SUBDIR] --output [FIGURES]
 ```
-
-There is also `table_incep.py` to generate an output table which can be called using:
-```
-python table_incep.py --input [RESULTS SUBDIR]
-```
-The script `table_incep.py` dumps its output to `stdout` so it does not need an output directory.
 
 ## License
 
