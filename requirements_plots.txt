@@ -1,0 +1,7 @@
+# matplotlib and its deps, needed for plotting scripts
+backports.functools-lru-cache==1.5
+cycler==0.10.0
+kiwisolver==1.0.1
+pyparsing==2.3.0
+subprocess32==3.5.3
+matplotlib==2.2.3
