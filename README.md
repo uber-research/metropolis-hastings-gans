@@ -45,7 +45,7 @@ git clone https://github.com/rdturnermtl/benchmark_tools.git
 cd benchmark_tools
 pip install -e .
 ```
-The enviroment should now all be setup to run the experiments.
+The environment should now all be setup to run the experiments.
 
 ## Running the experiments
 
