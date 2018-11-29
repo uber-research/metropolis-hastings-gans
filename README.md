@@ -1,10 +1,17 @@
 # Metropolis-Hastings GANs
 
-This repo contains the code used for the paper:
+This repository contains the source code supporting the paper [Metropolis-Hastings Generative Adversarial Networks](https://arxiv.org/abs/1811.11357):
+
 ```
-Metropolis-Hastings Generative Adversarial Networks
-Ryan Turner, Jane Hung, Yunus Saatci, and Jason Yosinski
+@article{Turner2018,
+  title={Metropolis-Hastings Generative Adversarial Networks},
+  author={Ryan Turner and Jane Hung and Yunus Saatci and Jason Yosinski},
+  journal={arXiv preprint arXiv:1811.11357},
+  year={2018}
+}
 ```
+
+For more on this project, see the [Uber AI Labs Blog post](https://eng.uber.com/mh-gan/).
 
 ## Getting Started
 
