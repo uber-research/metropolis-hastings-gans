@@ -7,6 +7,7 @@ This repository contains the source code supporting the paper [Metropolis-Hastin
     author={Ryan Turner and Jane Hung and Eric Frank and Yunus Saatci and Jason Yosinski},
     title={Metropolis-Hastings Generative Adversarial Networks},
     booktitle={Proceedings of the 36th International Conference on Machine Learning},
+    pages={6345--6353},
     year={2019}
 }
 ```
