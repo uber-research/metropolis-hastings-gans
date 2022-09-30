@@ -1,6 +1,6 @@
 # base stuff
 future==0.16.0
-joblib==0.12.4
+joblib==1.2.0
 six==1.11.0
 # scientific stack w/o AD
 numpy==1.13.3
