@@ -4,7 +4,7 @@ joblib==0.12.4
 six==1.11.0
 # scientific stack w/o AD
 numpy==1.13.3
-scipy==1.1.0
+scipy==1.10.0
 python-dateutil==2.7.3
 pytz==2018.5
 pandas==0.22.0
