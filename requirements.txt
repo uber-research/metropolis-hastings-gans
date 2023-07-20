@@ -12,5 +12,5 @@ scikit-learn==0.19.1
 # the AD stuff
 lmdb==0.94
 Pillow==5.2.0
-torch==0.4.1
+torch==1.13.1
 torchvision==0.2.1
