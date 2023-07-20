@@ -1,5 +1,5 @@
 # base stuff
-future==0.16.0
+future==0.18.3
 joblib==0.12.4
 six==1.11.0
 # scientific stack w/o AD
